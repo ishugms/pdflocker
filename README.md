@@ -9,4 +9,4 @@ STEP 2 : Just download and extract zipped file in only 'C:\' drive and copy your
 Click on it and Protect Your Documents.
 
 Designed and Developed by IshuGupta <br>
-https://www.github.com/ishugms/pdflockersoft
+https://www.github.com/ishugms/pdflocker
